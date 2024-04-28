@@ -28,6 +28,3 @@ public class Product
 //  createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 
 // web api ecommerece 
-// CRUD operations
-// MVC Pattern
-// API Documentations
